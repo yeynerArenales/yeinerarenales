@@ -3,7 +3,7 @@
 ```javascript
 const Jeiner = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled-Components]
 ```
 
