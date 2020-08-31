@@ -1,4 +1,4 @@
-### Hi, I'M Yeyner 👨‍💻👋
+### Hi, I'm Yeyner 👨‍💻👋
 
 ```javascript
 const Jeiner = {
