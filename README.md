@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'M Yeyner 👨‍💻👋
+
+```javascript
+const Jeiner = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Storybook, Styled-Components]
+```
 
 <!--
 **JeinerArenales/jeinerarenales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
