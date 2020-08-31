@@ -5,6 +5,7 @@ const Jeiner = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled-Components]
+}
 ```
 
 You can find me 🌎:
