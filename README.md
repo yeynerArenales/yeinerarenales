@@ -4,7 +4,7 @@
 const Yeyner = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Angular,Sass ,Bootstrap, Redux, Node, Storybook, Styled-Components],
+  tools: [React, Angular ,Sass ,Bootstrap, Redux, Node, Storybook, Styled-Components],
 }
 ```
 
