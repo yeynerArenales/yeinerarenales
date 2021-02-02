@@ -3,9 +3,9 @@
 ```javascript
 const Yeyner = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Angular, Sass, Bootstrap, Redux, Node, Storybook, Styled-Components],
-  loading: [next.js, node.js]
+  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  tools: ['React', 'Angular', 'Sass', 'Bootstrap', 'Redux', 'Storybook', 'Styled-Components'],
+  loading: ['next.js', 'node.js']
 }
 ```
 
