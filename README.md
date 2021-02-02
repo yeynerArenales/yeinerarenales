@@ -5,11 +5,13 @@ const Yeyner = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Angular, Sass, Bootstrap, Redux, Node, Storybook, Styled-Components],
+  loading: [next.js, node.js]
 }
 ```
 
 You can find me 🌎:
 - [Instagram](https://www.instagram.com/jeinerarenales/)
+- [LinkedIn}(https://www.linkedin.com/in/yeynerarenales-development/)
 
 <!--
 **JeinerArenales/jeinerarenales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
