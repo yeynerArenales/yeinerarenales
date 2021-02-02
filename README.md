@@ -1,7 +1,7 @@
 ### Hi, I'm Yeyner 👨‍💻👋
 
 ```javascript
-const Yeyner = {
+let Yeyner = {
   pronouns: "he" | "him",
   code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
   tools: ['React', 'Angular', 'Sass', 'Bootstrap', 'Redux', 'Storybook', 'Styled-Components'],
